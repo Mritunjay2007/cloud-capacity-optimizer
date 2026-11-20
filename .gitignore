@@ -1,6 +1,34 @@
 __pycache__/
 *.py[cod]
 .venv/
+*$py.class
+
+# C extensions
+*.so
+./venv
+venv/
+# Distribution / packaging
+.eggs/
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
 venv/
 *.egg-info/
 demo-report.json

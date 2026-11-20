@@ -1,0 +1,5 @@
+Region,Hours,Status,PureOnDemandCost,OptimizedTotalCost,ReservedCost,OnDemandCost,IdleCommitmentCost,SavingsUSD,SavingsPct,ReservedUtilizationPct,SolveTimeSec
+1,672,Optimal,79907.0,60709.2,40723.2,19986.0,4770.6,19197.8,24.03,88.29,1.804
+2,672,Optimal,144829.0,98448.2,79027.2,19421.0,3782.4,46380.8,32.02,95.21,1.838
+3,672,Optimal,120058.0,82791.2,62899.2,19892.0,2799.6,37266.8,31.04,95.55,1.821
+4,672,Optimal,158767.0,106390.4,87494.4,18896.0,3571.8,52376.6,32.99,95.92,0.103
